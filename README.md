@@ -3,7 +3,7 @@
 
 
 # 2. PENCET NO 1 `Bind card str` (JANGAN SALAH PENCET)
-![Screenshot 2024-02-17 165241](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/9bfd6545-dcd9-4afe-8fe9-750f61cffc9a)
+  ![Screenshot 2024-07-23 173612](https://github.com/user-attachments/assets/ab5e4a48-d7cd-4cb4-afc1-dc730d7a8f7b)
 
 
 # 3. MASUKIN KEY YANG UDAH DI BERIKAN TADI CONTOH `micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
