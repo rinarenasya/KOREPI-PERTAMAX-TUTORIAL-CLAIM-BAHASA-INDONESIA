@@ -1,5 +1,6 @@
-# 1.LANGSUNG KEBAGIAN `#micah-bot-verif`
-![Screenshot 2024-02-08 235501](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/6a8a6053-a0b6-4175-b924-10a5ee50f976)
+# 1.LANGSUNG KEBAGIAN `#🔑｜micah-bot-verify!`
+![Screenshot 2024-07-23 173612](https://github.com/user-attachments/assets/f2cea6bf-6080-4a15-af90-640f97ece128)
+
 
 # 2. PENCET NO 1 `Bind card str` (JANGAN SALAH PENCET)
 ![Screenshot 2024-02-17 165241](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/9bfd6545-dcd9-4afe-8fe9-750f61cffc9a)
