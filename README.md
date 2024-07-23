@@ -2,7 +2,7 @@
 ---
 # 🌟 Tutorial Verifikasi Bot Micah 🌟
 
-### 1. Langsung ke `#🔑｜micah-bot-verify!`
+### 1. Langsung ke Bagian `#🔑｜micah-bot-verify!`
 ![Screenshot Langkah 1](https://github.com/user-attachments/assets/f2cea6bf-6080-4a15-af90-640f97ece128)
 
 ### 2. Pilih Opsi `1. Bind card str` (Jangan salah pilih)
