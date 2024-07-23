@@ -3,7 +3,7 @@
 
 
 # 2. PENCET NO 1 `Bind card str` (JANGAN SALAH PENCET)
-  ![Screenshot 2024-07-23 173612](https://github.com/user-attachments/assets/ab5e4a48-d7cd-4cb4-afc1-dc730d7a8f7b)
+![Screenshot 2024-07-23 174534](https://github.com/user-attachments/assets/325d6b06-9c50-4c1e-b4ae-c82f93e204c8)
 
 
 # 3. MASUKIN KEY YANG UDAH DI BERIKAN TADI CONTOH `micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX`
