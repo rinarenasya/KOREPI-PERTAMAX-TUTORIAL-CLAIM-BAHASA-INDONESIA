@@ -10,9 +10,10 @@
 ![micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX](https://github.com/user-attachments/assets/f897abbc-b77a-488e-9e09-edeace7b53fe)
 
 
-# 4. UNTUK MENGGABUNGKAN KEY YANG BARU DENGAN KEY PERTAMAX SEBELUMNYA BISA KLIK NOMOR 2 YANG SAMPINGNYA TOMBOL `get verification file` YANG INI `Stack card(subscription time)`. (JIKA CUMA BELI 1 BISA SKIP STEP INI)
-![Screenshot 2024-02-17 165241](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/315fd01c-10da-4f07-98da-3c4ac5d061ec)
-# MASUKIN KEY `micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` yang baru 
+# 4. UNTUK MENGGABUNGKAN KEY YANG BARU DENGAN KEY PERTAMAX SEBELUMNYA BISA KLIK NOMOR 2 YANG SAMPINGNYA TOMBOL `get verification file` YANG INI `Stack card(subscription time)`. (Jika cuma beli 1 bisa di skip)
+![Screenshot 2024-07-23 174534](https://github.com/user-attachments/assets/7533622b-feb9-4134-ab10-7bba5d6c7250)
+
+# MASUKIN KEY `micah-oc-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX` Yang Baru 
 ![image](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/8c78809e-8b54-4ff6-af9d-73b3af929ef4)
 
 
