@@ -24,7 +24,8 @@
 ### 6. Untuk Mengecek Kapan Cheat Expired, Klik Opsi `3. View subscription information` di `#micah-bot-verif`
 ![Screenshot Langkah 6](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/9450fbc8-ef35-4a6b-a9c9-f2c27c1078a6)
 - Hasilnya akan terlihat seperti ini:
-![Contoh Info Langganan](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/assets/159468276/bdf1f75c-d155-4645-a465-21e34eacd732)
+![Contoh Info Langganan](https://github.com/user-attachments/assets/631fc0f6-884f-4179-89d7-4aa4d71d4979)
+
 
 ### 📜 Daftar Fitur
 - Baca daftar fiturnya [disini](https://github.com/rinarenasya/KOREPI-PERTAMAX-TUTORIAL-CLAIM-BAHASA-INDONESIA/wiki/FEATURE-LIST).
